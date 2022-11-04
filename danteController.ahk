@@ -1,4 +1,4 @@
-#SingleInstance
+#SingleInstance Force
 
 ; Launches Dante Controller and logs into Dante Cloud / DDM
 
